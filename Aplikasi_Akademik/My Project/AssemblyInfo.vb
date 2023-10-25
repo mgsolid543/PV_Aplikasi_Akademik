@@ -9,7 +9,7 @@ Imports System.Runtime.InteropServices
 ' Review the values of the assembly attributes
 
 <Assembly: AssemblyTitle("Aplikasi Akademik")> 
-<Assembly: AssemblyDescription("Sistem Informasi Akademik")> 
+<Assembly: AssemblyDescription("Sistem Informasi Akademik PT STMIK Jabar dibuat oleh Irpan Budiana")> 
 <Assembly: AssemblyCompany("PT STMIK Jabar")> 
 <Assembly: AssemblyProduct("Aplikasi_Akademik")> 
 <Assembly: AssemblyCopyright("Copyright © Irpan Budiana 2023")> 

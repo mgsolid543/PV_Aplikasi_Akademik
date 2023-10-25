@@ -8,4 +8,10 @@
         End If
 
     End Sub
+
+    Private Sub InfoAplikasiToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles InfoAplikasiToolStripMenuItem.Click
+        Dim AboutBox = New AboutBox
+        AboutBox.MdiParent = Me
+        AboutBox.Show()
+    End Sub
 End Class
