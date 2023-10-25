@@ -10,3 +10,10 @@ C:\Users\Developer\AppData\Local\Temporary Projects\Aplikasi_Akademik\obj\x86\De
 C:\Users\Developer\documents\visual studio 2010\Projects\Aplikasi_Akademik\Aplikasi_Akademik\obj\x86\Debug\Aplikasi_Akademik.exe
 C:\Users\Developer\documents\visual studio 2010\Projects\Aplikasi_Akademik\Aplikasi_Akademik\obj\x86\Debug\Aplikasi_Akademik.xml
 C:\Users\Developer\documents\visual studio 2010\Projects\Aplikasi_Akademik\Aplikasi_Akademik\obj\x86\Debug\Aplikasi_Akademik.pdb
+C:\Users\Developer\documents\visual studio 2010\Projects\Aplikasi_Akademik\Aplikasi_Akademik\bin\Debug\Aplikasi_Akademik.exe
+C:\Users\Developer\documents\visual studio 2010\Projects\Aplikasi_Akademik\Aplikasi_Akademik\bin\Debug\Aplikasi_Akademik.pdb
+C:\Users\Developer\documents\visual studio 2010\Projects\Aplikasi_Akademik\Aplikasi_Akademik\bin\Debug\Aplikasi_Akademik.xml
+C:\Users\Developer\documents\visual studio 2010\Projects\Aplikasi_Akademik\Aplikasi_Akademik\obj\x86\Debug\Aplikasi_Akademik.FormUtama.resources
+C:\Users\Developer\documents\visual studio 2010\Projects\Aplikasi_Akademik\Aplikasi_Akademik\obj\x86\Debug\Aplikasi_Akademik.Resources.resources
+C:\Users\Developer\documents\visual studio 2010\Projects\Aplikasi_Akademik\Aplikasi_Akademik\obj\x86\Debug\Aplikasi_Akademik.vbproj.GenerateResource.Cache
+C:\Users\Developer\documents\visual studio 2010\Projects\Aplikasi_Akademik\Aplikasi_Akademik\obj\x86\Debug\Aplikasi_Akademik.SplashScreen.resources
